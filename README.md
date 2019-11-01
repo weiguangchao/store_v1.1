@@ -8,11 +8,11 @@
 
 1、前台
 
-![](/images/TIM截图20191101150023.png)
+![](https://github.com/bumingsuoi/store_v1.1/blob/master/images/TIM截图20191101150023.png)
 
 2、后台
 
-![](/images/TIM截图20191101150219.png)
+![](https://github.com/bumingsuoi/store_v1.1/blob/master/images/TIM截图20191101150219.png)
 
 ##### 项目展示：
 
