@@ -8,7 +8,7 @@
 
 1、前台
 
-![](images/TIM截图20191101150023.png)
+![](https://github.com/bumingsuoi/store_v1.1/blob/master/images/TIM%E6%88%AA%E5%9B%BE20191101150023.png)
 
 2、后台
 
