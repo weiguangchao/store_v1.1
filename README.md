@@ -8,11 +8,11 @@
 
 1、前台
 
-![](https://github.com/bumingsuoi/store_v1.1/blob/master/images/TIM%E6%88%AA%E5%9B%BE20191101150023.png)
+![](https://raw.githubusercontent.com/bumingsuoi/store_v1.1/master/images/TIM%E6%88%AA%E5%9B%BE20191101150023.png)
 
 2、后台
 
-![](/images/TIM截图20191101150219.png)
+![](https://raw.githubusercontent.com/bumingsuoi/store_v1.1/master/images/TIM截图20191101150219.png)
 
 ##### 项目展示：
 
@@ -28,7 +28,7 @@
 
 1、src/main/resources/c3p0-config.xml
 
-![](/images/TIM截图20191101144241.png)
+![](https://raw.githubusercontent.com/bumingsuoi/store_v1.1/master/images/TIM截图20191101144241.png)
 
 
 
@@ -36,13 +36,13 @@
 
 2、src/main/java/com/hrious/store/utils/JedisUtils.java
 
-![](/images/TIM截图20191101144422.png)
+![](https://raw.githubusercontent.com/bumingsuoi/store_v1.1/master/images/TIM截图20191101144422.png)
 
 修改redis连接信息
 
 3、src/main/java/com/hrious/store/config/AlipayConfig
 
-![](/images/TIM截图20191101144704.png)
+![](https://raw.githubusercontent.com/bumingsuoi/store_v1.1/master/images/TIM截图20191101144704.png)
 
 ##### 总结：
 
