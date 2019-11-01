@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id="categoryDao" class="com.hrious.store.dao.impl.CategoryDaoImpl"></bean>
+	<bean id="orderDao" class="com.hrious.store.dao.impl.OrderDaoImpl"></bean>
+	<bean id="productDao" class="com.hrious.store.dao.impl.ProductDaoImpl"></bean>
+	<bean id="userDao" class="com.hrious.store.dao.impl.UserDaoImpl"></bean>
+</beans>
