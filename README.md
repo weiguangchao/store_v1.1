@@ -8,8 +8,8 @@
 
 1、前台
 
-![](https://raw.githubusercontent.com/bumingsuoi/store_v1.1/master/images/TIM%E6%88%AA%E5%9B%BE20191101150023.png)
-
+[comment]: <> (![]&#40;https://raw.githubusercontent.com/bumingsuoi/store_v1.1/master/images/TIM%E6%88%AA%E5%9B%BE20191101150023.png&#41;)
+![](images/TIM截图20191101150023.png)
 2、后台
 
 ![](https://raw.githubusercontent.com/bumingsuoi/store_v1.1/master/images/TIM截图20191101150219.png)
